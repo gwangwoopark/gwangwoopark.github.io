@@ -88,16 +88,16 @@ YEAR-MONTH-DAY-title.MARKUP
 
 [Naver Search Advisor](https://searchadvisor.naver.com/console/board) 에 사이트를 등록한다.
 
-![Register](/assets/images/docs/Development/search-advisor/SearchAdvisor-Register.png)
+![Register](/assets/images/docs/development/search-advisor/SearchAdvisor-Register.png)
 
 구글과 마찬가지로 입력한 사이트가 자신의 것임을 증명하는 소유권 확인 과정이 필요하다. 제공하는 html 파일을 블로그 repository 의 루트 디렉터리에 저장한다(수정 커밋: [dff802f](https://github.com/gwangwoopark/gwangwoopark.github.io/commit/dff802f57b9e239fa2d8c8ee2299d3764a40fe33)). `git: add → commit → push`. 업로드 후에 소유확인을 누르면 컨펌 메시지를 확인할 수 있다.
 
-![Ownership](/assets/images/docs/Development/search-advisor/SearchAdvisor-Ownership.png)
+![Ownership](/assets/images/docs/development/search-advisor/SearchAdvisor-Ownership.png)
 
 등록한 사이트에 대하여 RSS 제출을 한다.
 
-![RSS](/assets/images/docs/Development/search-advisor/SearchAdvisor-RSS.png)
+![RSS](/assets/images/docs/development/search-advisor/SearchAdvisor-RSS.png)
 
 구글과 마찬가지로 사이트맵 제출까지 완료한다.
 
-![Sitemap](/assets/images/docs/Development/search-advisor/SearchAdvisor-Sitemap.png)
+![Sitemap](/assets/images/docs/development/search-advisor/SearchAdvisor-Sitemap.png)

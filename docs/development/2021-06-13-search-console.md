@@ -54,14 +54,14 @@ robots.txt 는 로봇에 대해 해당 웹 사이트의 접근 제한에 대한 
 
 [Google Search Console](https://search.google.com/search-console/welcome) 에 속성을 추가한다. 먼저, URL 접두어 방식에 GitHub Pages 주소를 입력한다.
 
-![Property](/assets/images/docs/Development/search-console/SearchConsole-Property.png)
+![Property](/assets/images/docs/development/search-console/SearchConsole-Property.png)
 
 입력한 사이트가 자신의 것임을 증명하는 소유권 확인 과정이 필요하다. 제공하는 html 파일을 블로그 repository 의 루트 디렉터리에 저장한다(수정 커밋: [756ccf9](https://github.com/gwangwoopark/gwangwoopark.github.io/commit/756ccf955a2071c3657a693b8611d773d14896f0)). `git: add → commit → push`. 업로드 후에 확인을 누르면 컨펌 메시지를 확인할 수 있다.
 
-![Ownership](/assets/images/docs/Development/search-console/SearchConsole-Ownership.png)
+![Ownership](/assets/images/docs/development/search-console/SearchConsole-Ownership.png)
 
-![Ownership Confirmed](/assets/images/docs/Development/search-console/SearchConsole-OwnershipConfirm.png)
+![Ownership Confirmed](/assets/images/docs/development/search-console/SearchConsole-OwnershipConfirm.png)
 
 속성으로 이동하여 색인 메뉴의 Sitemaps 에서 sitemap 을 등록한다. sitemap.xml 이 루트 디렉터리에 존재하기 때문에 sitemap.xml 이름을 적어주고 제출하면 된다.
 
-![Sitemap](/assets/images/docs/Development/search-console/SearchConsole-Sitemap.png)
+![Sitemap](/assets/images/docs/development/search-console/SearchConsole-Sitemap.png)
