@@ -19,7 +19,7 @@ nav_order: 1
 
 # GitHub Pages 로 블로그(Blog) 운영하기
 
-GitHub Pages 를 사용하여 github.io 도메인을 사용하는 블로그를 운영할 수 있다. 블로그를 위한 respository 를 생성하고 add, commit, push 등의 git 명령어를 사용하여 작성 하듯이 블로그를 업데이트한다. 참고로 Public Repository만 무료로 Pages 를 운영할 수 있다.
+GitHub Pages 를 사용하여 github.io 도메인을 사용하는 블로그를 운영할 수 있다. 블로그를 위한 respository 를 생성하고 add, commit, push 등의 git 명령어를 사용하여 코드를 작성 하듯이 블로그를 업데이트한다. 참고로 Public Repository만 무료로 Pages 를 운영할 수 있다.
 
 ## GitHub Repository
 
@@ -69,12 +69,11 @@ origin  https://github.com/gwangwoopark/gwangwoopark.github.io (fetch)
 origin  https://github.com/gwangwoopark/gwangwoopark.github.io (push)
 ```
 
-### First Commit & Push
+### First Push
 
-현재까지 내용을 repository 에 반영한다.
+새로운 origin (자신의 repository) 에 현재까지 내용을 반영한다.
 
 ```bash
-$ git commit -m "first commit"
 $ git push
 ...
 To https://github.com/gwangwoopark/gwangwoopark.github.io
