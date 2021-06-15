@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 버터스콘
+title: 버터 스콘
 description: "간단하게 적은 양의 버터 스콘 만들기"
 parent: Recipe
 nav_order: 1
 ---
 
-# 버터 스콘
+# 버터 스콘 - 4개 분량, 간단하게 만들기
 {: .no_toc }
 
 ## Table of contents
@@ -19,9 +19,9 @@ nav_order: 1
 
 ![Butter Scone](/assets/images/docs/recipe/butter-scone/butter-scone-1.jpg)
 
-[위키백과](https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%98_(%EB%B9%B5))에 따르면 스콘(Scone)은 스코틀랜드에서 기원한 영국식 소형 **퀵 브레이드**이다. **퀵 브레이드**임에 주목하자. 주말 아침에 커피와 함께 먹기 위해서 적은 양을 간단히 만드는 것이 목표다. 그래서 냉장휴지는 하지 않는다.
+[위키백과](https://ko.wikipedia.org/wiki/%EC%8A%A4%EC%BD%98_(%EB%B9%B5))에 따르면 스콘(Scone)은 스코틀랜드에서 기원한 영국식 소형 **퀵 브레이드**이다. **퀵 브레이드**임에 주목하자. 주말 아침에 커피와 함께 먹기 위해서 간단히 적은 양을 만드는 것이 목표다. 그래서 냉장휴지는 하지 않았다.
 
-## 재료
+## 재료 - 스콘 4개 분량
 
 - 박력분 120g
 - 베이킹파우더 3g
