@@ -6,7 +6,7 @@ parent: Development
 nav_order: 2
 ---
 
-# Google Search Console
+# Naver Search Advisor
 {: .no_toc }
 
 ## Table of contents
